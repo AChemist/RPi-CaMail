@@ -1,6 +1,9 @@
 # Code to sense motion using an passive infra red (PIR) sensor on a Raspberry PI.
 # After detection of motion a photo is recorded using the PiCamera and send via Mail.
 
+# Resources
+# 
+
 # Librarys
 import time 
 import RPi.GPIO as GPIO
